@@ -1,5 +1,7 @@
 Rencana hidup
 
 -skripsi ambil tema web
+  -ambil website statis/e-comerce
+  -bisa online
 -bekerja sebelum wisuda
 -ambil rumah setelah dapat kerja
